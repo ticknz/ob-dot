@@ -1,0 +1,7 @@
+/img/*
+/css/*
+/build/*
+apple-*
+humans.txt
+robots.txt
+*.ico
